@@ -1,0 +1,4 @@
+CodonW：http://codonw.sourceforge.net/
+Pepstats：http://emboss.bioinformatics.nl/cgi-bin/emboss/pepstats
+TMHMM：http://www.cbs.dtu.dk/services/TMHMM/
+PSORTb：https://www.psort.org/psortb/
